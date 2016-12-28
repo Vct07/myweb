@@ -1,0 +1,5 @@
+.bg-cover{
+	background: url(../pic/2.jepg);
+	height: 300px;
+	background-size:cover;
+}
